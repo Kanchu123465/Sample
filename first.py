@@ -1,3 +1,3 @@
-n=15
-for i in range(0,n):
+k=25
+for i in range(0,k):
     print(i)
